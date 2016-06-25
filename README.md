@@ -1,0 +1,3 @@
+# assets
+
+The static files
